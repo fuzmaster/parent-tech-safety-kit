@@ -1,0 +1,12 @@
+{
+  "name": "Parent Tech Safety Kit",
+  "short_name": "Tech Help",
+  "description": "A private, senior-friendly help page for family tech support.",
+  "start_url": "/#/",
+  "display": "standalone",
+  "background_color": "#f0fdfa",
+  "theme_color": "#0f766e",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
